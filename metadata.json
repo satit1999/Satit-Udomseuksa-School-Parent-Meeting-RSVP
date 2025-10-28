@@ -1,0 +1,5 @@
+{
+  "name": "Satit Udomseuksa School Parent Meeting RSVP",
+  "description": "A bilingual (Thai/English) web application for parents to RSVP for the parent-teacher conference. It includes an admin panel to manage submissions.",
+  "requestFramePermissions": []
+}
